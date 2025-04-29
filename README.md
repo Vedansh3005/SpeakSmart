@@ -1,6 +1,6 @@
 # Alera – AI Desktop Assistant
 
-![Alera Banner](https://github.com/Vedansh3005/SpeakSmart_AI_Desktop_Voice_Assistant/blob/main/logo.png)
+![Alera Banner](https://github.com/Vedansh3005/SpeakSmart/blob/main/logo.png)
 
 ---
 
@@ -42,7 +42,7 @@ Through smart AI classification, Alera processes multiple voice commands simulta
 
 ## 📈 System Architecture
 
-![System Architecture Diagram](https://github.com/Vedansh3005/SpeakSmart_AI_Desktop_Voice_Assistant/blob/main/SystemArchitecture.png)
+![System Architecture Diagram](https://github.com/Vedansh3005/SpeakSmart/blob/main/SystemArchitecture.png)
 
 **Flow:**
 1. Voice Input
